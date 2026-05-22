@@ -1,0 +1,6 @@
+{
+  "name": "wx-article-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for WeChat article fetching via Vercel Edge",
+  "private": true
+}
